@@ -1,4 +1,4 @@
 @extends('admin.layouts.template')
 @section('content')
-    hello form
+    add subcate
 @endsection
